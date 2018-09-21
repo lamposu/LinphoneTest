@@ -1,0 +1,10 @@
+E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\Debug\ConsoleApp1.exe.config
+E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\Debug\ConsoleApp1.exe
+E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\Debug\ConsoleApp1.pdb
+E:\Projects\sipdotnet-master\ConsoleApp1\obj\x86\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Projects\sipdotnet-master\ConsoleApp1\obj\x86\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Projects\sipdotnet-master\ConsoleApp1\obj\x86\Debug\ConsoleApp1.csproj.CopyComplete
+E:\Projects\sipdotnet-master\ConsoleApp1\obj\x86\Debug\ConsoleApp1.exe
+E:\Projects\sipdotnet-master\ConsoleApp1\obj\x86\Debug\ConsoleApp1.pdb
+E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\Debug\LinphoneWrapper.dll
+E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\Debug\LinphoneWrapper.pdb

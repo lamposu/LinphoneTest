@@ -1,0 +1,6 @@
+E:\Projects\sipdotnet-master\LinphoneWrapper\bin\Debug\LinphoneWrapper.dll
+E:\Projects\sipdotnet-master\LinphoneWrapper\bin\Debug\LinphoneWrapper.pdb
+E:\Projects\sipdotnet-master\LinphoneWrapper\obj\Debug\LinphoneWrapper.csproj.CoreCompileInputs.cache
+E:\Projects\sipdotnet-master\LinphoneWrapper\obj\Debug\LinphoneWrapper.dll
+E:\Projects\sipdotnet-master\LinphoneWrapper\obj\Debug\LinphoneWrapper.pdb
+E:\Projects\sipdotnet-master\LinphoneWrapper\obj\Debug\LinphoneWrapper.csprojAssemblyReference.cache
