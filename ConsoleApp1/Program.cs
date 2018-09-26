@@ -20,8 +20,8 @@ namespace ConsoleApp1
                 bool running = true;
                 string userName = "3561012";
                 string password = "34111774";
-                string server = "10.10.3.89";
-                int port = 19561;
+                string server = "59.37.16.48";//"10.10.3.89";
+                int port = 19560;
 
                 Core.SetLogLevel(OrtpLogLevel.DEBUG);
 
@@ -83,12 +83,12 @@ namespace ConsoleApp1
                 };
                 var core = Factory.Instance.CreateCore(
                     coreLisener,
-                    null, 
-                    @"E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\share\Linphone\linphonerc-factory");
+                    null,
+                    @"E:\GitHub\LinphoneTest\ConsoleApp1\bin\x86\share\Linphone\linphonerc-factory");
 
-                core.ReloadMsPlugins(@"E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\lib\mediastreamer\plugins");
+                core.ReloadMsPlugins(@"E:\GitHub\LinphoneTest\ConsoleApp1\bin\x86\lib\mediastreamer\plugins");
                 core.ReloadSoundDevices();
-                core.RootCa = @"E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\share\Linphone\rootca.pem";
+                core.RootCa = @"E:\GitHub\LinphoneTest\ConsoleApp1\bin\x86\share\Linphone\rootca.pem";
 
                 Thread coreLoop = new Thread(() =>
                 {
@@ -110,8 +110,8 @@ namespace ConsoleApp1
                 core.Transports = transpors;
 
                 core.SetUserAgent("Desktop", "1.5.0.9");
-                core.Ring = @"E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\share/sounds\linphone\rings\its_a_game.mkv";
-                core.Ringback = @"E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\share/sounds\linphone\ringback.wav";
+                core.Ring = @"E:\GitHub\LinphoneTest\ConsoleApp1\bin\x86\share\sounds\linphone\rings\its_a_game.mkv";
+                core.Ringback = @"E:\GitHub\LinphoneTest\ConsoleApp1\bin\x86\share\sounds\linphone\ringback.wav";
                 core.RingDuringIncomingEarlyMedia = true;
                 core.EchoCancellationEnabled = true;
                 core.MicEnabled = true;
@@ -122,7 +122,7 @@ namespace ConsoleApp1
                     {
                         core.PlaybackDevice = device;
                         core.RingerDevice = device;
-                        break;
+                        continue;
                     }
 
                     if (core.SoundDeviceCanCapture(device))

@@ -8,3 +8,13 @@ E:\Projects\sipdotnet-master\ConsoleApp1\obj\x86\Debug\ConsoleApp1.exe
 E:\Projects\sipdotnet-master\ConsoleApp1\obj\x86\Debug\ConsoleApp1.pdb
 E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\Debug\LinphoneWrapper.dll
 E:\Projects\sipdotnet-master\ConsoleApp1\bin\x86\Debug\LinphoneWrapper.pdb
+E:\GitHub\LinphoneTest\ConsoleApp1\bin\x86\Debug\ConsoleApp1.exe.config
+E:\GitHub\LinphoneTest\ConsoleApp1\bin\x86\Debug\ConsoleApp1.exe
+E:\GitHub\LinphoneTest\ConsoleApp1\bin\x86\Debug\ConsoleApp1.pdb
+E:\GitHub\LinphoneTest\ConsoleApp1\bin\x86\Debug\LinphoneWrapper.dll
+E:\GitHub\LinphoneTest\ConsoleApp1\bin\x86\Debug\LinphoneWrapper.pdb
+E:\GitHub\LinphoneTest\ConsoleApp1\obj\x86\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\GitHub\LinphoneTest\ConsoleApp1\obj\x86\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\GitHub\LinphoneTest\ConsoleApp1\obj\x86\Debug\ConsoleApp1.csproj.CopyComplete
+E:\GitHub\LinphoneTest\ConsoleApp1\obj\x86\Debug\ConsoleApp1.exe
+E:\GitHub\LinphoneTest\ConsoleApp1\obj\x86\Debug\ConsoleApp1.pdb

@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinphoneWrapper", "LinphoneWrapper\LinphoneWrapper.csproj", "{3BDB13AD-523F-4D84-A621-CEC30070A0CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sipdotnet", "sipdotnet-dev\sipdotnet.csproj", "{BCB250F8-F74C-4768-8833-0F13FC8659B8}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,14 +31,6 @@ Global
 		{3BDB13AD-523F-4D84-A621-CEC30070A0CC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3BDB13AD-523F-4D84-A621-CEC30070A0CC}.Release|x86.ActiveCfg = Release|Any CPU
 		{3BDB13AD-523F-4D84-A621-CEC30070A0CC}.Release|x86.Build.0 = Release|Any CPU
-		{BCB250F8-F74C-4768-8833-0F13FC8659B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BCB250F8-F74C-4768-8833-0F13FC8659B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BCB250F8-F74C-4768-8833-0F13FC8659B8}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{BCB250F8-F74C-4768-8833-0F13FC8659B8}.Debug|x86.Build.0 = Debug|Any CPU
-		{BCB250F8-F74C-4768-8833-0F13FC8659B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BCB250F8-F74C-4768-8833-0F13FC8659B8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BCB250F8-F74C-4768-8833-0F13FC8659B8}.Release|x86.ActiveCfg = Release|Any CPU
-		{BCB250F8-F74C-4768-8833-0F13FC8659B8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

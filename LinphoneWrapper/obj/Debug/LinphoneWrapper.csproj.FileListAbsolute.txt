@@ -4,3 +4,8 @@ E:\Projects\sipdotnet-master\LinphoneWrapper\obj\Debug\LinphoneWrapper.csproj.Co
 E:\Projects\sipdotnet-master\LinphoneWrapper\obj\Debug\LinphoneWrapper.dll
 E:\Projects\sipdotnet-master\LinphoneWrapper\obj\Debug\LinphoneWrapper.pdb
 E:\Projects\sipdotnet-master\LinphoneWrapper\obj\Debug\LinphoneWrapper.csprojAssemblyReference.cache
+E:\GitHub\LinphoneTest\LinphoneWrapper\bin\Debug\LinphoneWrapper.dll
+E:\GitHub\LinphoneTest\LinphoneWrapper\bin\Debug\LinphoneWrapper.pdb
+E:\GitHub\LinphoneTest\LinphoneWrapper\obj\Debug\LinphoneWrapper.csproj.CoreCompileInputs.cache
+E:\GitHub\LinphoneTest\LinphoneWrapper\obj\Debug\LinphoneWrapper.dll
+E:\GitHub\LinphoneTest\LinphoneWrapper\obj\Debug\LinphoneWrapper.pdb
