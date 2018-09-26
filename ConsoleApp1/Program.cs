@@ -20,7 +20,7 @@ namespace ConsoleApp1
                 bool running = true;
                 string userName = "3561012";
                 string password = "34111774";
-                string server = "59.37.16.48";//"10.10.3.89";
+                string server = "10.10.3.89";
                 int port = 19560;
 
                 Core.SetLogLevel(OrtpLogLevel.DEBUG);
